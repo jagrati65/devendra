@@ -106,8 +106,8 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Hello Namaste</h1>
-    <p>This is start</p>
+    <h1>Hello Namaste My Name is Akshat</h1>
+    <p>I am sundru, haganda,mehahara, boachar</p>
   </div>
   
   <div class="linksColumn"> 
